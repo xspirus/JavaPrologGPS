@@ -1,0 +1,31 @@
+* * * R E S U L T S * * *
+Normalised Route Distance	: 8.127226880050971
+True Route Distance			: 8.127226880050966
+
+* * * T A X I S * * *
+N O R M A L I S E D
+TaxiID	: Normalised Distance
+140		: 4.979582014351222
+160		: 7.482080912806997
+110		: 10.08538758211702
+190		: 11.7463385624673
+T R U E
+TaxiID	: True Distance
+140		: 5.04527862749968
+160		: 7.482080912806999
+110		: 10.151084195265463
+190		: 11.746338562467296
+R A T I N G S
+TaxiID	: Rating
+140		: 9.1
+110		: 8.0
+190		: 7.2
+160		: 7.1
+
+* * * J I P  S T A T S * * *
+Consulting	: 9.783s
+
+* * * A  S T A R  S T A T S * * *
+Total time	: 5.571s
+
+T O T A L  R U N T I M E : 15.874s
